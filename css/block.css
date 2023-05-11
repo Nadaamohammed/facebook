@@ -1,0 +1,15 @@
+.profile {
+    /* Style the friend's profile container */
+    border: 1px solid #ccc;
+    padding: 10px;
+ }
+ 
+ button {
+    /* Style the block friend button */
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+ }
